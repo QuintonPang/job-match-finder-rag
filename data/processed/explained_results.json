@@ -1,0 +1,157 @@
+[
+  {
+    "payload": {
+      "position": "Senior Backend Engineer Studio AI",
+      "company": "Creative Fabrica",
+      "role_summary": "The senior backend engineer at Creative Fabrica will develop scalable server-side applications using Node.js for managing subscriptions and user data across their global community of artists and craftspeople.",
+      "tags": [
+        "golang",
+        "technical",
+        "dev",
+        "senior",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "seniority_level": "senior",
+      "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-studio-ai-creative-fabrica-1133667"
+    },
+    "rerank_score": -2.2521066665649414,
+    "fit_explanation": "The experienced Python developer has a strong foundation in developing backends which aligns well with the role requiring development of scalable server-side apps via Node.js as mentioned in the job description. Their experience can be leveraged to manage subscription services and handle large volumes of artist/craftsperson related data efficiently on an international scale.",
+    "skill_gaps": "No major gaps found."
+  },
+  {
+    "payload": {
+      "position": "Analista de Software S\u00c3\u00aanior",
+      "company": "Banco BV",
+      "role_summary": "The position requires designing high complexity systems using Spring Boot in cloud native architectures while ensuring system integrity and availability through distributed architecture strategies such as Microservices Resilience Patterns like Circuit Breaker & Bulkhead patterns; it also demands expertise in Domain-Driven Design for software development along with experience working on financial sector projects utilizing AI technologies including Retrieval Augmentation Generation models within an environment focused on scalable containerization via Docker running on Google Cloud services.",
+      "tags": [
+        "dev",
+        "design",
+        "docker",
+        "java",
+        "cloud",
+        "exec",
+        "excel",
+        "digital nomad"
+      ],
+      "seniority_level": "senior",
+      "apply_url": "https://remoteOK.com/remote-jobs/remote-analista-de-software-senior-banco-bv-1133689"
+    },
+    "rerank_score": -3.308042287826538,
+    "fit_explanation": "The candidate has extensive experience developing complex applications using Java (Spring Boot) which aligns well with the requirement of creating intricate systems based on microservice designs mentioned in the job description. Their familiarity with domain-driven design principles is crucial given that they are expected to work on finance industry projects where these methodologies can be highly beneficial. Furthermore, their proficiency in handling large datasets could potentially translate into leveraging retrieval augmentation generation techniques required by the role. Lastly, although no explicit mention was made about prior exposure to containers or specifically Google Cloud Services,",
+    "skill_gaps": "No major gaps found."
+  },
+  {
+    "payload": {
+      "position": "Junior Data Analyst",
+      "company": "Haystack",
+      "role_summary": "The role entails comprehensive training on key data analytics software like Excel, SQL, Python, Tableau, and Power BI; obtaining three industry-standard certifications; gaining hands-on workplace projects; participating in an extensive career program aimed at ensuring job preparedness and securing positions within 30 days following graduation from the program.",
+      "tags": [
+        "analyst",
+        "python",
+        "education",
+        "microsoft",
+        "data science",
+        "junior",
+        "excel",
+        "non tech"
+      ],
+      "seniority_level": "unspecified",
+      "apply_url": "https://remoteOK.com/remote-jobs/remote-junior-data-analyst-haystack-1133663"
+    },
+    "rerank_score": -7.2208638191223145,
+    "fit_explanation": "The candidate possesses relevant experience as a Python developer which aligns well with the requirement for proficiency in programming languages such as Python mentioned in the job description. Their familiarity with back-end development could be beneficial when working alongside other technical roles to analyze complex datasets using tools listed (Excel, SQL). Although they lack direct mention of Microsoft or tableau/power bi expertise, their willingness to learn new technologies suggests adaptability that is crucial for growth into more advanced stages post initial learning phase required by the company\u2019s intensive career preparation programs.",
+    "skill_gaps": "Microsoft (not mentioned)"
+  },
+  {
+    "payload": {
+      "position": "Lead Software Engineer Ads",
+      "company": "Jane Technologies",
+      "role_summary": "The candidate will build scalable services, collaborate with teams, drive architectural directions, partner with PMs & ML experts, manage engineer development, identify skill gaps, and contribute to improving processes within Jane Technologies\u2019 growing tech environment.",
+      "tags": [
+        "dev",
+        "design",
+        "sys admin",
+        "technical",
+        "testing",
+        "marketing",
+        "java",
+        "cloud",
+        "ads",
+        "exec",
+        "content writing",
+        "golang",
+        "medical",
+        "engineer",
+        "ecommerce",
+        "digital nomad"
+      ],
+      "seniority_level": "senior",
+      "apply_url": "https://remoteOK.com/remote-jobs/remote-lead-software-engineer-ads-jane-technologies-1133519"
+    },
+    "rerank_score": -7.443845748901367,
+    "fit_explanation": "The experienced Python developer possesses both backend and cloud infrastructure expertise which aligns well with the responsibilities of a lead software engineer at Jane Technologies who is expected to develop scalable services in collaboration with various teams including project managers (PM) and machine learning (ML) specialists. Their experience also indicates they have managed engineering talent effectively as suggested by their role involving driving architectural decisions and identifying team member skill gaps for process improvement.",
+    "skill_gaps": "No major gaps found."
+  },
+  {
+    "payload": {
+      "position": "Help Desk",
+      "company": "Zenius Corporation",
+      "role_summary": "Provide tier 1/tier 2 support for a Grants Management System; respond to and resolve user support requests through various channels; troubleshoot software issues related to user access, reports, and workflows; track and escalate high priority tickets; develop and update user manuals and conduct training sessions; test new features during development phases.",
+      "tags": [
+        "hr",
+        "virtual assistant",
+        "medical",
+        "customer support",
+        "amazon",
+        "dev",
+        "speech",
+        "math",
+        "content writing",
+        "excel",
+        "recruiter",
+        "full time",
+        "non tech",
+        "digital nomad",
+        "education",
+        "exec",
+        "legal",
+        "web3",
+        "crypto",
+        "blockchain",
+        "design",
+        "marketing",
+        "finance",
+        "video",
+        "ops",
+        "social media",
+        "admin",
+        "designer",
+        "photoshop",
+        "sales",
+        "ads",
+        "illustrator",
+        "vfx",
+        "consulting",
+        "technical",
+        "junior",
+        "salesforce",
+        "travel",
+        "scrum",
+        "jira",
+        "senior",
+        "saas",
+        "sys admin",
+        "testing",
+        "web dev",
+        "cloud"
+      ],
+      "seniority_level": "unspecified",
+      "apply_url": "https://remoteOK.com/remote-jobs/remote-help-desk-zenius-corporation-1133680"
+    },
+    "rerank_score": -8.37839126586914,
+    "fit_explanation": "The experienced Python developer possesses both frontend (backend) and cloud infrastructure knowledge which aligns well with providing Tier 1/Tier 2 support in a grants management system that likely involves complex data handling and server interactions. Their ability to handle diverse tasks such as resolving user queries, developing documentation, and participating in feature tests indicates they have strong problem-solving abilities essential for tracking and addressing critical ticket priorities within an IT environment like at Zenius Corporation.",
+    "skill_gaps": "No major gaps found."
+  }
+]
