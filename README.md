@@ -2,7 +2,7 @@
 
 A free, self-hosted Retrieval-Augmented Generation (RAG) system that matches a candidate's resume against real, live job postings — using semantic search rather than keyword matching, with LLM-generated explanations for why each match makes sense.
 
-**[Demo video](./demo.mp4)** — upload a resume, see ranked matches, get an AI-generated explanation for the top result.
+**[Demo video](https://youtu.be/Bah2bBFhyag)** — upload a resume, see ranked matches, get an AI-generated explanation for the top result.
 
 ---
 
